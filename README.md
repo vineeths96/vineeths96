@@ -1,10 +1,11 @@
 <div align="center">
-<h2> <img src="./assets/hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜>!  <img src="./assets/hi.gif" width="30px"></h2>
+<h2> <img src="https://github.com/vineeths96/vineeths96/blob/master/assets/hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜>!  <img src="https://github.com/vineeths96/vineeths96/blob/master/assets/hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
-<img src="./assets/git.gif" alt="Welcome!" width="125"/>
+<img src="https://github.com/vineeths96/vineeths96/blob/master/assets/git.gif" alt="Welcome!" width="125"/>
 </div>
+
 
 <div align="center">
 Welcome to my Github profile. <br> <br>
