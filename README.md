@@ -22,9 +22,11 @@ Ask me anything <br>
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vineeths96&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="vineeths96's Github Stats">
----
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vineeths96.vineeths96)
+
+
+
+![visitors](https://vineeths96-visitor-badge.glitch.me/badge?page_id=vineeths96.vineeths96)
 
 <i>Follow me around the web:</i><br>
 
