@@ -16,9 +16,9 @@ Feel free to clone projects, raise issues, and submit PRs if you think something
 
 </div>
 
-<!---
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineeths96&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="vineeths96's Github Stats">
+<!---
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vineeths96&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="vineeths96's Github Stats">
 --->
   
 ![visitors](https://vineeths96-visitor-badge.glitch.me/badge?page_id=vineeths96.vineeths96)
@@ -28,6 +28,3 @@ Feel free to clone projects, raise issues, and submit PRs if you think something
 <div align="center">
 <a href="https://www.linkedin.com/in/vineeths" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 <a href="mailto:vs96codes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="GMail"></a>
-
-
-
