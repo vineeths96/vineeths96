@@ -8,23 +8,16 @@
 
 
 <div align="center">
-Welcome to my Github profile. <br> <br>
-I am Vineeth. I am a masters student in Artificial Intelligence at the Indian Institute of Science, Bengaluru. <br>  
-You will most likely find machine learning and data science projects along with some DSA projects here. <br>
-Feel free to clone projects, raise issues and submit PRs if you think something could be made better. <br>
-Ask me anything <br>
-    In <a href="https://github.com/vineeths96/vineeths96/issues/new"><b>GitHub</b></a> <br> 
-    In <a href="mailto:vs96codes@gmail.com"><b>Email</b></a> <br>
-    In <a href="https://www.linkedin.com/in/vineeths"><b>LinkedIn</b></a> <br> 
+Welcome to my GitHub profile. <br> <br>
+I am Vineeth, currently contributing to Qualcomm as a Machine Learning Engineer. Previously, I was a masters student in Artificial Intelligence at the Indian Institute of Science, Bengaluru. <br>  
+You will likely find machine learning and data science projects along with some DSA projects here. <br>
+Feel free to clone projects, raise issues, and submit PRs if you think something could be made better. <br>
 <i>Happy Coding!</i>
 
 </div>
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vineeths96&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="vineeths96's Github Stats">
-
-
-
 
 ![visitors](https://vineeths96-visitor-badge.glitch.me/badge?page_id=vineeths96.vineeths96)
 
